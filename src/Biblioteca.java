@@ -9,5 +9,6 @@
  * @author CES
  */
 public class Biblioteca {
+    private int cod_identificativo;
     
 }
